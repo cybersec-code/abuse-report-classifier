@@ -1,0 +1,46 @@
+category,definition
+
+abuse,"An abuse report details instances of abuse or attempted abuse experienced by the person who authors the report, such as extortion, scams, demands for ransom, unauthorized withdrawals, replacement of addresses in the clipboard when copying/pasting cryptocurrency addresses, or theft. The report must point to how the abuse happend by providing a description or presenting evidence of the occurrence. It never promotes or recomend services of any kind."
+
+notabuse,"A report is notabuse if it does not describe an abuse attempt suffered by the reporter but rather presents a personal opinion, calls for action, advertises a service, claims that an address is involved in terrorism, or that it belongs to hackers. A notabuse report may initially describe an abuse to look more convincent, but its main message always turns to be promoting something like a service, a personal opinion, a call for action, a claim, or a defamation. In general, a notabuse report may sound phishy or seem like a scam."
+
+scam,"A scam is an attempt to defraud a person or group by gaining their confidence. Scammers are dishonest and deceive their victims to gain some benefit at the expense of the victim. Scammers may lie to the victims with texts that look legitimate but are hard to verify, commonly exploiting trust, compassion, greed, vulnerability, or lack of awareness in their victims. Popular scams involve investment scams, romance scams, giveaway scams, fake services like e-shops or funds recovery, and requests for donations to unverified addresses."
+
+extortion,"Extortion is the practice of obtaining benefit through coercion. The victim is threatened with something bad happening in the future if it does not make a payment to the extortionist. The threat may involve revealing compromising data from the victim, the victim suffering physical harm, or the extortionist damaging assets belonging to the victims. To make the threat more credible the extortionist may claim to know some password of the victim."
+
+unauthwithdrawal,"Unauthorized withdrawal refers to a third party withdrawing or transferring funds belonging to the victim without proper authorization or consent by the victim. Unauthorized withdrawal includes theft through credential stealing and the use of clipper malware to replace addresses copied into the clipboard with addresses belonging to the attacker when they are pasted."
+
+ransom,"Attacks that demand a ransom payment from the victim in order to recover access to data encrypted or deleted by the attacker. The data may have been stored in a device or server owned by the victim. The attackers leave a ransom note explaining how to make the payment or how to contact the attackers for instructions."
+
+deleteransom,"A ransom scheme where the attacker demands a ransom payment from the victim in order to recover data removed (and possibly exfiltrated) by the attacker, typically stored in databases."
+
+clipper,"Unauthorized withdrawals enabled by a clipper. A clipper is a type of malware that replaces cryptocurrency addresses copied to the victim's clipboard with an address belonging to the attacker, without the victim being aware of the replacement. When the victim pastes the address copied to the clipboard as destination of a cryptocurrency transaction, the funds are unwillingly transferred to the attacker's address."
+
+bomb,"A type of extortion where attackers threaten with detonating an explosive device. The attacker claims the bomb has been hidden in the building where the victim lives or works and that the explosion will affect many people."
+
+harm,"A type of extortion where attackers threaten with physically harming the victim unless a payment is made. Beyond moral damage, the attacker threatens to physically hurt the victim or destroy its property. The victim is supposed to pay for the attacker to remain inactive."
+
+ddos,"A type of extortion where attackers threaten with launching a distributed denial of service (DDoS) attack against a target server, website, or service. The DDoS attack will cause the service to be unavailable. The victim is requested to make a payment so that the DDoS attack does not happen."
+
+reputation,"A type of extortion where attackers threaten with damaging the reputation of the victim by sending threats with insults to several recipients (for instance, other web site owners or bloggers) on the victim's behalf."
+
+investment,"A type of scam that entices individuals to invest with the promise of high returns or guaranteed profits. Investment scams may use fake testimonials, fabricated success stories, or false celebrity endorsements to lure victims to invest. Scammers may create fake investment websites, platforms, or social media profiles to appear legitimate and trustworthy. After the initial investment, victims are not allowed to withdraw their profits or recover their original investment. Instead, attackers may request new fees and investments to allow withdrawal."
+
+advancefee,"A type of scam where scammers promise the victim with a significant share of a large sum of money, in return for a small advance fee. The fraudster claims the up-front payment will be used to obtain the large sum. The scammer may impersonate a wealthy individual such as a Nigerian prince or an organization such as a tax revenue service or the social security administration."
+
+romance,"A type of scam where victims are deceived by scammers to establish fake romantic relationships. Scammers create false personas, often online, and manipulate their victims' emotions to gain their trust and affection. Once an emotional bond is formed, the scammer demands payments from the victim under false excuses."
+
+eshop,"A type of scam where scammers create an online shop website or e-commerce store where victims may place orders for buying items but receive nothing, or may receive a product that does not match the purchased one, e.g., a counterfeit or inferior product. The fake e-shop is made to look legitimate and lures buyers through unusually low prices or by offering illegal products. The e-shop may be offered as dark markets only accesible through Tor."
+
+fundsrecovery,"A type of abuse report in which the author specifically mentions to being a victim of a fake funds-recovery service. The victim may describe how the financial losses occured, or how the perpetrator was contacted, but the main purpose of the report must always be to give details about the fake funds-recovery service or person, and never promote a service or person that recovers funds."
+
+sextortion,"A type of extortion where attackers specifically claim to have a video or photos of the victim in sexual acts of any kind. The attackers may claim to have access to the victim's webcam. The attackers must threaten to share the video or photos with explicit sexual content with friends, family, or colleagues of the victim unless a payment is made. The report is not sextortion if it does not clearly mention sex-related material."
+
+giveaway,"A type of scam where scammers promise that upon reception of a cryptocurrency deposit from the victim they will return to the sending address twice or more the received cryptocurrency amount. The scammers often lure victims to participate in the giveaway scam by impersonating famous persons, organizations, or cryptocurrency influencers, or by advertising the giveaway as a promotion or contest."
+
+employment,"Employment scams advertise fake job opportunities or services for assisting individuals in finding employment. They are also known as job scams. Victims of employment scams typically do not receive a payment for the tasks they completed, receive only partial payment for their work, or are required to pay a fee to be able to withdraw their earnings. The offered jobs are often shady such as writing fake reviews, generating traffic to websites, money-laundering, or reshipping packages."
+
+notabuse_fundsrecovery,"A type of scam that advertises a service to recover funds stolen from individuals who have experienced financial losses in Bitcoin or other cryptocurrencies due to fraud or other scams. Scammers masquerade themselves or announce others as recovery agents, investigators, or legal professionals, emphasizing their ability to recover lost or stolen cryptocurrencies and their legitimacy. Scammers may masquerade themselves as victims telling the story of how they were scammed and how then the advertised funds recovery service allowed them to recover the lost funds. The posts always provide a contact for the funds recovery service such as an email, telephone number, or website."
+
+notabuse_terrorism,"A report of terrorism refers to the documentation or communication of an incident or activity that involves the intentional use of violence, coercion, or intimidation by individuals or groups with ideological, political, or religious motives. Terrorism typically aims to instill fear, cause harm, or advance certain agendas through acts of violence, such as bombings, shootings, or kidnappings."
+

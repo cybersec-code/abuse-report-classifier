@@ -1,0 +1,16 @@
+category,definition
+
+ttb_other_abuse,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic abuse type."
+
+ttb_other_notabuse,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic notabuse report."
+
+ttb_other_ransom,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic type of ransom abuse."
+
+ttb_other_unauthwithdrawal,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic type of unauthenticated withdrawal abuse."
+
+ttb_other_extortion,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic type of extortion abuse."
+
+ttb_other_scam,"The report does not match the given definitions, or barely match the given definitions so it describes a more generic type of scam abuse."
+
+btt_other_abuse,"The report does not match any of the given definitions, or barely match the given definitions, so it describes a more generic abuse type or it does not describe an abuse at all"
+

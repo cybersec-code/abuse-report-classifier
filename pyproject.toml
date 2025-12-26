@@ -1,0 +1,40 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abuse-report-classifier"
+version = "1.0.0"
+description = "abuse-report-classifier leverages OpenAI's LLMs to assign cryptocurrency abuse reports an abuse type."
+readme = "README.md"
+authors = [
+    { name = "Gibran Gomez" },
+    { name = "Kevin van Liebergen" },
+    { name = "Davide Sanvito" },
+    { name = "Giuseppe Siracusano" },
+    { name = "Roberto Gonzalez" },
+    { name = "Juan Caballero" },
+]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Topic :: Security",
+]
+keywords = ["machine learning", "LLM", "cryptocurrency", "abuse report", "classifier", "security"]
+dependencies = [
+    "openai",
+    "tiktoken",
+    "pandas",
+    "matplotlib",
+    "scikit-learn"
+]
+
+[project.optional-dependencies]
+
+[project.urls]
+Homepage = "https://github.com/cybersec-code/abuse-report-classifier"
+
+[project.scripts]
+abuse-report-classifier = "arc.__main__:main"
